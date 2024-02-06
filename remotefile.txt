@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 rksdb;gjb;,v r.g 
 g
 eg
@@ -18,3 +19,8 @@ yjnu
 78i
 n7un4
 yb
+=======
+agsagsadgsa
+sggagsa
+agsagas
+>>>>>>> 1f56e3e7089111351fd8bfa377d6267809b66e7a
